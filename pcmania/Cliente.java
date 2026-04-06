@@ -31,6 +31,6 @@ public class Cliente {
     public void mostraInfo() {
         System.out.println("Cliente: " + nome);
         System.out.println("CPF: " + cpf);
-        System.out.println("\nPCs comprados:" + qtdCompras);
+        System.out.println("PCs comprados:" + qtdCompras);
     }
 }
